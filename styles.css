@@ -1,14 +1,15 @@
 body{
     background-color: #3498db;
+    background-size: 100%;
 }
 
 .container{
     max-width: 400px;
-    margin:200px auto;
+    margin:100px auto;
     padding: 20px;
     background-color: aliceblue;
     border:2px solid #1e5f8a;
-    border-radius: 8px;
+    border-radius: 10px;
     box-shadow: 2px 10px 10px rgba(0,0,0,0.2);
 
 }
